@@ -1,0 +1,85 @@
+[submodule "question/type/kprime"]
+	path = question/type/kprime
+	url = https://github.com/ethz-let/moodle-qtype_kprime.git
+[submodule "mod/evoting"]
+	path = mod/evoting
+	url = https://bitbucket.org/cyberlearn/evoting.git
+	branch = master
+[submodule "mod/hvp"]
+	path = mod/hvp
+	url = https://github.com/h5p/h5p-moodle-plugin.git
+[submodule "mod/questionnaire"]
+	path = mod/questionnaire
+	url = https://github.com/PoetOS/moodle-mod_questionnaire.git
+	branch = MOODLE_38_STABLE
+[submodule "mod/scheduler"]
+	path = mod/scheduler
+	url = https://github.com/bostelm/moodle-mod_scheduler.git
+	branch = MOODLE_37_STABLE
+[submodule "question/type/multichoiceset"]
+	path = question/type/multichoiceset
+	url = git://github.com/ecampbell/moodle-qtype_multichoiceset.git
+[submodule "lib/editor/atto/plugins/morefontcolors"]
+	path = lib/editor/atto/plugins/morefontcolors
+	url = https://github.com/ndunand/moodle-atto_morefontcolors.git
+[submodule "lib/editor/atto/plugins/morebackcolorsgit"]
+	path = lib/editor/atto/plugins/morebackcolorsgit
+	url = https://github.com/ndunand/moodle-atto_morebackcolors.git
+[submodule "plagiarism/urkund"]
+	path = plagiarism/urkund
+	url = https://github.com/danmarsden/moodle-plagiarism_urkund.git
+	branch = MOODLE_38_STABLE
+[submodule "mod/book/tool/wordimport"]
+	path = mod/book/tool/wordimport
+	url = https://github.com/ecampbell/moodle-booktool_wordimport.git
+[submodule "mod/grouptool"]
+	path = mod/grouptool
+	url = https://github.com/academic-moodle-cooperation/moodle-mod_grouptool.git
+	branch = MOODLE_38_STABLE
+[submodule "lib/editor/atto/plugins/wordimport"]
+	path = lib/editor/atto/plugins/wordimport
+	url = https://github.com/ecampbell/moodle-atto_wordimport.git
+[submodule "lib/editor/atto/plugins/htmlplus"]
+	path = lib/editor/atto/plugins/htmlplus
+	url = https://github.com/andrewnicols/moodle-atto_htmlplus.git
+[submodule "lib/editor/atto/plugins/fullscreen"]
+	path = lib/editor/atto/plugins/fullscreen
+	url = https://github.com/dthies/moodle-atto_fullscreen.git
+[submodule "filter/multilang2"]
+	path = filter/multilang2
+	url = https://github.com/dthies/moodle-atto_fullscreen.git
+[submodule "blocks/accessibility"]
+	path = blocks/accessibility
+	url = https://github.com/marxjohnson/moodle-block_accessibility.git
+[submodule "filter/poodll"]
+	path = filter/poodll
+	url = https://github.com/justinhunt/moodle-filter_poodll.git
+	branch = poodll3
+[submodule "mod/assign/submission/onlinepoodll"]
+	path = mod/assign/submission/onlinepoodll
+	url = https://github.com/justinhunt/moodle-assign_submission_onlinepoodll.git
+	branch = poodll3
+[submodule "mod/assign/feedback/poodll"]
+	path = mod/assign/feedback/poodll
+	url = https://github.com/justinhunt/moodle-assignfeedback_poodll.git
+	branch = poodll3
+[submodule "mod/data/field/poodll"]
+	path = mod/data/field/poodll
+	url = https://github.com/justinhunt/moodle-mod_data_field_poodll.git
+	branch = poodll3
+[submodule "question/type/poodllrecording"]
+	path = question/type/poodllrecording
+	url = https://github.com/justinhunt/moodle-qtype_poodllrecording
+	branch = poodll3
+[submodule "repository/poodll"]
+	path = repository/poodll
+	url = https://github.com/justinhunt/moodle-repository_poodll.git
+	branch = poodll3
+[submodule "lib/editor/atto/plugins/poodll"]
+	path = lib/editor/atto/plugins/poodll
+	url = https://github.com/justinhunt/moodle-atto_poodll.git
+	branch = poodll3
+[submodule "lib/editor/tinymce/plugins/poodll"]
+	path = lib/editor/tinymce/plugins/poodll
+	url = https://github.com/justinhunt/moodle-tinymce_poodll.git
+	branch = poodll3
