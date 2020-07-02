@@ -45,3 +45,7 @@
 	path = mod/questionnaire
 	url = https://github.com/PoetOS/moodle-mod_questionnaire.git
 	branch = MOODLE_38_STABLE
+[submodule "mod/scheduler"]
+	path = mod/scheduler
+	url = https://github.com/bostelm/moodle-mod_scheduler.git
+	branch = MOODLE_37_STABLE
