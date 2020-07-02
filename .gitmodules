@@ -26,3 +26,7 @@
 	path = lib/editor/atto/plugins/poodll
 	url = https://github.com/justinhunt/moodle-atto_poodll.git
 	branch = poodll3
+[submodule "lib/editor/tinymce/plugins/poodll"]
+	path = lib/editor/tinymce/plugins/poodll
+	url = https://github.com/justinhunt/moodle-tinymce_poodll.git
+	branch = poodll3
