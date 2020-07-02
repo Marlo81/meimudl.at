@@ -53,3 +53,7 @@
 	path = question/type/multichoiceset
 	url = https://github.com/ecampbell/moodle-qtype_multichoiceset.git
 	branch = master
+[submodule "lib/editor/atto/plugins/morefontcolors"]
+	path = lib/editor/atto/plugins/morefontcolors
+	url = https://github.com/ndunand/moodle-atto_morefontcolors.git
+	branch = master
