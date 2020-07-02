@@ -37,3 +37,7 @@
 	path = mod/evoting
 	url = https://bitbucket.org/cyberlearn/evoting.git
 	branch = master
+[submodule "mod/hvp"]
+	path = mod/hvp
+	url = https://github.com/h5p/h5p-moodle-plugin.git
+	branch = stable
