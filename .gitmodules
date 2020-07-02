@@ -14,3 +14,7 @@
 	path = mod/data/field/poodll
 	url = https://github.com/justinhunt/moodle-mod_data_field_poodll.git
 	branch = poodll3
+[submodule "question/type/poodllrecording"]
+	path = question/type/poodllrecording
+	url = https://github.com/justinhunt/moodle-qtype_poodllrecording
+	branch = poodll3
