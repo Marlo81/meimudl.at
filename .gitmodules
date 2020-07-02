@@ -1,0 +1,4 @@
+[submodule "filter/poodll"]
+	path = filter/poodll
+	url = https://github.com/justinhunt/moodle-filter_poodll.git
+	branch = poodll3
