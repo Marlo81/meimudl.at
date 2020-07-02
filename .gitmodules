@@ -85,3 +85,7 @@
 	path = lib/editor/atto/plugins/fullscreen
 	url = https://github.com/dthies/moodle-atto_fullscreen.git
 	branch = master
+[submodule "filter/multilang2"]
+	path = filter/multilang2
+	url = https://github.com/iarenaza/moodle-filter_multilang2.git
+	branch = master
