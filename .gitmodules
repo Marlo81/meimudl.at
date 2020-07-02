@@ -61,3 +61,7 @@
 	path = lib/editor/atto/plugins/morebackcolors
 	url = https://github.com/ndunand/moodle-atto_morebackcolors.git
 	branch = master
+[submodule "plagiarism/urkund"]
+	path = plagiarism/urkund
+	url = https://github.com/danmarsden/moodle-plagiarism_urkund.git
+	branch = MOODLE_38_STABLE
