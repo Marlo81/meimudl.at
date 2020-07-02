@@ -22,3 +22,7 @@
 	path = repository/poodll
 	url = https://github.com/justinhunt/moodle-repository_poodll.git
 	branch = poodll3
+[submodule "lib/editor/atto/plugins/poodll"]
+	path = lib/editor/atto/plugins/poodll
+	url = https://github.com/justinhunt/moodle-atto_poodll.git
+	branch = poodll3
