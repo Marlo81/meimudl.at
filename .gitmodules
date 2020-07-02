@@ -69,3 +69,7 @@
 	path = mod/book/tool/wordimport
 	url = https://github.com/ecampbell/moodle-booktool_wordimport.git
 	branch = master
+[submodule "mod/grouptool"]
+	path = mod/grouptool
+	url = https://github.com/academic-moodle-cooperation/moodle-mod_grouptool.git
+	branch = MOODLE_38_STABLE
