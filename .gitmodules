@@ -73,3 +73,7 @@
 	path = mod/grouptool
 	url = https://github.com/academic-moodle-cooperation/moodle-mod_grouptool.git
 	branch = MOODLE_38_STABLE
+[submodule "lib/editor/atto/plugins/wordimport"]
+	path = lib/editor/atto/plugins/wordimport
+	url = https://github.com/ecampbell/moodle-atto_wordimport.git
+	branch = master
