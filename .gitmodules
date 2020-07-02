@@ -89,3 +89,7 @@
 	path = filter/multilang2
 	url = https://github.com/iarenaza/moodle-filter_multilang2.git
 	branch = master
+[submodule "blocks/accessibility"]
+	path = blocks/accessibility
+	url = https://github.com/marxjohnson/moodle-block_accessibility.git
+	branch = master
