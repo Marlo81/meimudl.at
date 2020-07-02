@@ -10,3 +10,7 @@
 	path = mod/assign/feedback/poodll
 	url = https://github.com/justinhunt/moodle-assignfeedback_poodll.git
 	branch = poodll3
+[submodule "mod/data/field/poodll"]
+	path = mod/data/field/poodll
+	url = https://github.com/justinhunt/moodle-mod_data_field_poodll.git
+	branch = poodll3
