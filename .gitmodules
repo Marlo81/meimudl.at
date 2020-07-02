@@ -30,3 +30,6 @@
 	path = lib/editor/tinymce/plugins/poodll
 	url = https://github.com/justinhunt/moodle-tinymce_poodll.git
 	branch = poodll3
+[submodule "question/type/kprime"]
+	path = question/type/kprime
+	url = https://github.com/ethz-let/moodle-qtype_kprime.git
