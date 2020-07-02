@@ -77,3 +77,7 @@
 	path = lib/editor/atto/plugins/wordimport
 	url = https://github.com/ecampbell/moodle-atto_wordimport.git
 	branch = master
+[submodule "lib/editor/atto/plugins/htmlplus"]
+	path = lib/editor/atto/plugins/htmlplus
+	url = https://github.com/andrewnicols/moodle-atto_htmlplus.git
+	branch = master
