@@ -33,3 +33,7 @@
 [submodule "question/type/kprime"]
 	path = question/type/kprime
 	url = https://github.com/ethz-let/moodle-qtype_kprime.git
+[submodule "mod/evoting"]
+	path = mod/evoting
+	url = https://bitbucket.org/cyberlearn/evoting.git
+	branch = master
