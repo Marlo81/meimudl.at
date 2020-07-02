@@ -18,3 +18,7 @@
 	path = question/type/poodllrecording
 	url = https://github.com/justinhunt/moodle-qtype_poodllrecording
 	branch = poodll3
+[submodule "repository/poodll"]
+	path = repository/poodll
+	url = https://github.com/justinhunt/moodle-repository_poodll.git
+	branch = poodll3
