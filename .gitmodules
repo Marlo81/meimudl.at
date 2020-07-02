@@ -49,3 +49,7 @@
 	path = mod/scheduler
 	url = https://github.com/bostelm/moodle-mod_scheduler.git
 	branch = MOODLE_37_STABLE
+[submodule "question/type/multichoiceset"]
+	path = question/type/multichoiceset
+	url = https://github.com/ecampbell/moodle-qtype_multichoiceset.git
+	branch = master
